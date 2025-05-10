@@ -1,4 +1,4 @@
-#Made by chatgpt. This is for personal use only. All rights belong to the owner./
+#Made by chatgpt. This is for personal use only. All rights belong to the owner.
 
 class Rainbow
 
